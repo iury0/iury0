@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello world! I'm Iuri!<br><br>I've been working with computer networks for 6 years and am gradually entering the field of cybersecurity. 
+Hello world! I'm Iuri!<br><br>I've been working with computer networks for 6 years and am gradually entering the field of ofensive cybersecurity. 
 
 
 ## 🌐 Socials:
