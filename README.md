@@ -1,9 +1,7 @@
 <h1 align="center">Hello world! I'm Iuri Costa 👾</h1>
 <h3 align="center">A network admin and back-end dev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iury0&label=Visitantes&color=314049&style=flat-square" alt="iury0" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iury0" alt="iury0" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iury0&label=Visitantes&color=314049&style=flat-square" alt="iury0" /> </p>
 
 - I’m currently working on [my keylogger](https://github.com/iury0/Keylogger-estudo)
 
@@ -36,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iury0&show_icons=true&theme=onedark&cache_seconds=1800&locale=en" alt="iury0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iury0&theme=highcontrast" alt="iury0" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iury0" alt="iury0" /></a> </p>
